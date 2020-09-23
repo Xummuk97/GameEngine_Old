@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<levels>
+	<level map="test2">
+		<background textureName="bg" rect="[0, 0, 1600, 900]"/>
+		<light_system.ambientColor color="[100, 100, 100, 255]"/>
+		<light_system.player.lightColor color="[255, 255, 255, 255]"/>
+	</level>
+</levels>

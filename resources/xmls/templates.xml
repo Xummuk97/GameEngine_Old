@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<templates>
+	<template class="cursor">
+		<property name="textureName" value="cursor" />
+		<property name="rect" value="[0, 0, 32, 32]" />
+	</template>
+	
+	<template class="player">
+		<property name="textureName" value="player" />
+		<property name="hp" value="1000" />
+		<property name="speed" value="1.0" />
+		<property name="gravity" value="1.0" />
+		<property name="maxInertiaUp" value="1.0" />
+		<property name="jumpCountMax" value="2" />
+		<property name="rect" value="[0, 0, 32, 32]" />
+		<property name="weapons" value="[ak47]" />
+	</template>
+	
+	<template class="bot">
+		<property name="textureName" value="enemy" />
+		<property name="hp" value="100" />
+		<property name="speed" value="1.0" />
+		<property name="gravity" value="1.0" />
+		<property name="maxInertiaUp" value="1.0" />
+		<property name="jumpCountMax" value="1" />
+		<property name="rect" value="[0, 0, 32, 32]" />
+		<property name="weapons" value="[ak47]" />
+		<property name="sizeVisiblePlayer" value="[500.0, 500.0]" />
+	</template>
+	
+	<template class="movingPlatform">
+		<property name="textureName" value="map" />
+		<property name="speed" value="1.0" />
+		<property name="rect" value="[256, 256, 64, 64]" />
+	</template>
+	
+	<template class="damage">
+		<property name="damage" value="10" />
+	</template>
+	
+	<template class="damage_box">
+		<property name="hp" value="25" />
+	</template>
+	
+	<template class="bonus_health">
+		<property name="hp" value="100" />
+	</template>
+	
+	<template class="bonus_speed">
+		<property name="speed" value="1.0" />
+		<property name="sec" value="3.0" />
+	</template>
+	
+	<template class="bonus_damage">
+		<property name="damage" value="100" />
+		<property name="sec" value="0.5" />
+	</template>
+	
+	<template class="bonus_god">
+		<property name="sec" value="0.5" />
+	</template>
+	
+	<template class="bonus_super_weapon">
+		<property name="sec" value="5.0" />
+	</template>
+	
+	<template class="bonus_weapon_homing">
+		<property name="sec" value="5.0" />
+	</template>
+</templates>

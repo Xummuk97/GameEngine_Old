@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- Программно можно изменить свойство offset - смещение пули от прицела, по умолчанию 0.0 -->
+<weapons>
+	<weapon name="ak47">
+		<property name="speed" value="1000.0" />
+		<property name="damage" value="20" />
+		<property name="delay" value="0.1" />
+		<property name="bulletTexture" value="bullet" />
+		<property name="bulletRect" value="[0, 0, 16, 16]" />
+		<property name="weaponTexture" value="test" />
+		<property name="weaponRect" value="[0, 0, 0, 0]" />
+	</weapon>
+</weapons>

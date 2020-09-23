@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<textures>
+	<texture class="player" file="player.png" />
+	<texture class="test" file="test.png" />
+	<texture class="bg" file="bg.jpg" />
+	<texture class="stair" file="stair.png" />
+	<texture class="particle" file="particle.png" />
+	<texture class="cursor" file="cursor.png" />
+	<texture class="bullet" file="bullet.png" />
+	<texture class="enemy" file="enemy_set.png" />
+</textures>

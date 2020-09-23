@@ -1,0 +1,51 @@
+﻿  LightDirectionEmission.cpp
+  LightPointEmission.cpp
+  LightShape.cpp
+  LightSystem.cpp
+  Math.cpp
+  DynamicQuadtree.cpp
+  Quadtree.cpp
+  QuadtreeNode.cpp
+  QuadtreeOccupant.cpp
+  StaticQuadtree.cpp
+  main.cpp
+  animation.cpp
+  any.cpp
+  core.cpp
+  level.cpp
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(152): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(153): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(168): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(174): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(182): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(275): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Andrey\source\repos\ConsoleApplication1\ConsoleApplication1\src\core\level.cpp(278): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  light.cpp
+  system.cpp
+  bot.cpp
+  entity.cpp
+  movingPlatform.cpp
+  Создание кода...
+  Компиляция...
+  physix.cpp
+  player.cpp
+  weapon.cpp
+  data.cpp
+  button.cpp
+  image.cpp
+  label.cpp
+  widget.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Создание кода...
+  ConsoleApplication1.vcxproj -> C:\Users\Andrey\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
